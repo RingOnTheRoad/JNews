@@ -30,12 +30,12 @@ npm run build
 
 ### Screenshot
 
-![image-20231221114914938](.\ReadMeConfig\image-20231221114914938.png)
+![image-20231221114914938](https://github.com/RingOnTheRoad/JNews/edit/main/ReadMeConfig/image-20231221114914938.png)
 
-![image-20231221115115241](.\ReadMeConfig\image-20231221115115241.png)
+![image-20231221115115241](https://github.com/RingOnTheRoad/JNews/edit/main/ReadMeConfig/image-20231221115115241.png)
 
-![image-20231221115231868](.\ReadMeConfig\image-20231221115231868.png)
+![image-20231221115231868](https://github.com/RingOnTheRoad/JNews/edit/main/ReadMeConfig/image-20231221115231868.png)
 
-![image-20231221115315862](.\ReadMeConfig\image-20231221115315862.png)
+![image-20231221115315862](https://github.com/RingOnTheRoad/JNews/edit/main/ReadMeConfig/image-20231221115315862.png)
 
-![image-20231221115914577](.\ReadMeConfig\image-20231221115914577.png)
+![image-20231221115914577](https://github.com/RingOnTheRoad/JNews/edit/main/ReadMeConfig/image-20231221115914577.png)
